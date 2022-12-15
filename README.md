@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding, problem solving and learning new things
 - 🌱 I’m currently learning python and basics of data science
 - 📫 How to reach me 👇
+- Help me by collaborating and giving advice on my work.
 - Email: prathams9603@gmail.com
 
 <!---
