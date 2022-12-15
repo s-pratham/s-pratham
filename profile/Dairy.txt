@@ -1,0 +1,11 @@
+Milk_Powder_400g 163 35
+Go_Dairy_Milk_1L 65 80
+Nestle_Milkmaid_380g 125 5
+Hershey's_Milk_shake_180mL 24 20
+Amul_Kool_180mL 20 0
+Amul_Mithai_Mate_400g 110 10
+Dlecta_Dairy_Pure_Cream_200mL 51 20
+Amul_Gold_Milk_1L 73 40
+Amul_Cheese_200g 238 5
+Amul_Fresh_Cream_250mL 67 12
+Amul_Butter_200g 220 30

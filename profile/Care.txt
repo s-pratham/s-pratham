@@ -1,0 +1,13 @@
+Dove_Soap_Pack_of_3 281 10
+Pears_Soap_Pack_of_8 429 15
+Cinthol_Soap_Pack_of_8 304 4
+Dettol_Soap_Pack_of_6 324 32
+Nivea_Body_Lotion_400mL 259 9
+Vaseline_Body_Lotion_400mL 321 18
+Joy_Body_Lotion_400mL 204 20
+Yardley_Talc_250g 184 25
+Pond's_Talc_300g 280 2
+Cinthol_Talc_300g 136 0
+Himalaya_Neem_Face_Wash_200mL 171 41
+Everyuyth_Turmeric_Face_Wash_150mL 99 28
+Nivea_Charcoal_Face_Wash_50g 117 7

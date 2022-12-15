@@ -1,0 +1,10 @@
+Sting_Energy_Drink_(250ml) 33 33
+RED_BULL_Energy_Drink 106 40
+Coca-Cola_Zero_Sugar_Soft_Drink_(300ml) 31 9
+Monster_Energy_Drink 88 0
+Fanta_Orange_Flavoure_Soft_Drink_(2.25L) 75 100
+Pepsi_Can(250ml) 28 25
+Thums_Up_Bottle(600ml) 27 12
+7Up_Can(250ml) 81 0
+MiRiNDA_Bottle(1.25L) 52 55
+Mountain_Dew_Can(250ml) 33 8
