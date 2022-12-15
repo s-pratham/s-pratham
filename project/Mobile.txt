@@ -1,0 +1,22 @@
+APPLE_iPhone_12_Mini 30000 8
+APPLE_iPhone_11 30000 17
+APPLE_iPhone_13_Pro_Max 179900 14
+SAMSUNG_Galaxy_F23 15999 20
+SAMSUNG_Galaxy_M32 14980 24
+SAMSUNG_Galaxy_A33 28499 28
+realme_C33 9999 16
+realme_9_Pro 18999 25
+realme_GT_Neo_3T 29999 20
+realme_GT_2_Pro 57999 10
+realme_Narzo_50_Pro 21990 24
+REDMI_Note_10_Pro_Max 22990 32
+Xiaomi_11i_Hypercharge 24999 12
+OnePlus_Nord_CE_2_Lite 19748 15
+OnePlus_10_Pro 60999 14
+OnePlus_9_Pro 69980 13
+ASUS_ROG_5s 54999 18
+ASUS_ROG_Phone_5 49999 16
+ASUS_ZenFone_Max_Pro_M2 15999 11
+OPPO_Find_X 60990 17
+
+_Reno8_Pro 45999 21
