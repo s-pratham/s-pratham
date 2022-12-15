@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prathamesh Sonawane
 - 👀 I’m interested in Coding, problem solving and learning new things
 - 🌱 I’m currently learning python and basics of data science
-- 📫 How to reach me 
+- 📫 How to reach me 👇
 - Email: prathams9603@gmail.com
 
 <!---
